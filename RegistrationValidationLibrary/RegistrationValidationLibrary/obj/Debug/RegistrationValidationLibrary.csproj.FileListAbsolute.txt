@@ -1,0 +1,5 @@
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationLibrary\bin\Debug\RegistrationValidationLibrary.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationLibrary\bin\Debug\RegistrationValidationLibrary.pdb
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationLibrary\obj\Debug\RegistrationValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationLibrary\obj\Debug\RegistrationValidationLibrary.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationLibrary\obj\Debug\RegistrationValidationLibrary.pdb

@@ -1,0 +1,15 @@
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\RegistrationValidationTests.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\RegistrationValidationTests.pdb
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\obj\Debug\RegistrationValidationTests.csproj.AssemblyReference.cache
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\obj\Debug\RegistrationValidationTests.csproj.CoreCompileInputs.cache
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\obj\Debug\RegistrationValidationTests.csproj.CopyComplete
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\obj\Debug\RegistrationValidationTests.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\obj\Debug\RegistrationValidationTests.pdb
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\RegistrationValidationLibrary.dll
+C:\Users\malak\source\repos\RegistrationValidationLibrary\RegistrationValidationTests\bin\Debug\RegistrationValidationLibrary.pdb
